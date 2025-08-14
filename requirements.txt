@@ -4,3 +4,12 @@ numpy
 matplotlib
 scikit-learn
 seaborn
+pymongo
+certifi
+
+-e .
+
+# '''
+# this -e . file refers to the setup.py file when we install the libraries and 
+# help to setup the project 
+# '''
